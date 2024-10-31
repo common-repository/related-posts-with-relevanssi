@@ -1,0 +1,496 @@
+# Copyright (C) 2021 Sergiy Dzysyak
+# This file is distributed under the same license as the Relevant Related Posts plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Relevant Related Posts 3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/related-posts-with-relevanssi\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-25T05:37:05+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: related-posts-with-relevanssi\n"
+
+#. Plugin Name of the plugin
+msgid "Relevant Related Posts"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://erlycoder.com/product/relevant-related-posts/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Related postst generated via configured search engine on your WordPress installation."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sergiy Dzysyak"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://erlycoder.com/"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:46
+#: related-posts-with-relevanssi.php:268
+msgid "Support"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:51
+msgid "Need Help"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:55
+msgid "We are trying to make our plugins simple to use and include some explanations where they are required (to our mind)"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:56
+msgid "However we do not know what can be unclear to you"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:56
+msgid "We are tying to provide more detailed explanations and examples in"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:56
+#: includes/product-service/class.product-service-client.php:59
+msgid "Questions & Answers"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:59
+msgid "If we have not responded your specific question in"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:59
+msgid "section"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:59
+msgid "feel free to"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:59
+msgid "contact us"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:59
+msgid "and we will try to provide you required help as soon as possible"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:63
+msgid "Sure, we will be happy to hear from you what features are you missing and what should be improved, chaged or fixed"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:74
+msgid "Plugin Extensions & Other Suggested Plugins"
+msgstr ""
+
+#: includes/product-service/class.product-service-client.php:264
+#: related-posts-with-relevanssi.php:248
+#: related-posts-with-relevanssi.php:269
+msgid "Extensions"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:69
+msgid "Left"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:70
+msgid "Center"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:71
+msgid "Right"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:75
+msgid "Row with thumbs"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:76
+msgid "Column with thumbs"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:77
+msgid "Text only row"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:78
+msgid "Text only column"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:82
+msgid "Default"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:83
+msgid "Random"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:84
+msgid "Alphabetical Ascending"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:85
+msgid "Alphabetical Descending"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:86
+msgid "Publish Date Ascending"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:87
+msgid "Publish Date Descending"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:91
+msgid "Title"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:92
+msgid "First tag"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:93
+msgid "Tags 1,2,3"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:99
+msgid "Relevant Related Posts Advanced"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:139
+msgid "Relevant Related Posts Settings"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:139
+msgid "Relevant Related"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:140
+msgid "Basic Settings"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:140
+#: related-posts-with-relevanssi.php:249
+msgid "Settings"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:156
+msgid "Relevant related posts"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:169
+msgid "Post types available for suggestion blocks"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:173
+msgid "You should select post types that will be available for suggestion blocks creation from post types regirterred on your website"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:175
+msgid "Upgrade to pro"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:175
+msgid "to enable other than blog 'post' type susggestions, like Woocommerce products or else "
+msgstr ""
+
+#: related-posts-with-relevanssi.php:176
+#: templates/suggestions_inline.php:14
+#: templates/suggestions_popup.php:14
+#: templates/suggestions_under.php:13
+msgid "Advanced version also includes additional templates and prioritized support and updates"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:184
+msgid "Types of the posts to suggest"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:192
+msgid "If separate template is not available, than default post template will be used"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:195
+msgid "Append suggestions from category"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:199
+msgid "If there is not enough suggestion generated by the keywords, posts from the same category will be appended to the suggestions"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:202
+msgid "Append by random"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:206
+msgid "If there is not enough suggestion generated by the keywords, random posts will be appended to the suggestions"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:210
+msgid "Cache"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:214
+msgid "Cache type"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:217
+msgid "Auto"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:218
+msgid "Memcache"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:219
+msgid "Files"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:223
+msgid "Memcache works faster, however files may same some memory on the server. Files will work better with longer expiration times."
+msgstr ""
+
+#: related-posts-with-relevanssi.php:226
+msgid "Cache expiration time in seconds"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:228
+msgid "Longer expiration time will save server resources"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:268
+msgid "Docs"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:268
+msgid "and"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:270
+msgid "Write a review"
+msgstr ""
+
+#: related-posts-with-relevanssi.php:275
+msgid "Confirm compatibility"
+msgstr ""
+
+#: styles/tpl.block-wrap.php:3
+msgid "You migh be interested"
+msgstr ""
+
+#: styles/tpl.block-wrap.php:9
+#: styles/tpl.block-wrap.php:10
+msgid "More"
+msgstr ""
+
+#: styles/tpl.post.php:11
+msgid "Published"
+msgstr ""
+
+#: templates/suggestions_inline.php:1
+msgid "Inline suggestions"
+msgstr ""
+
+#: templates/suggestions_inline.php:5
+msgid "Under this section, after upgrade to advanced version, you will be able to configure a suggestion block that will be added after the certain abstract in your posts of the selected types. You will be able to configure the following options in addition to standard suggestion block settings"
+msgstr ""
+
+#: templates/suggestions_inline.php:8
+#: templates/suggestions_popup.php:8
+#: templates/suggestions_under.php:8
+msgid "Source of the content keywords used to build the suggestion block"
+msgstr ""
+
+#: templates/suggestions_inline.php:9
+msgid "Number of the abstract where do you want suggestions block to be inserted"
+msgstr ""
+
+#: templates/suggestions_inline.php:10
+#: templates/suggestions_popup.php:9
+#: templates/suggestions_under.php:9
+msgid "Select post types where the suggestion block should be shown"
+msgstr ""
+
+#: templates/suggestions_inline.php:13
+#: templates/suggestions_popup.php:13
+#: templates/suggestions_under.php:12
+#: widgets/elementor-related-posts-basic.php:212
+#: widgets/wp-related-posts-basic.php:132
+#: widgets/wp-related-posts-basic.php:207
+#: js/blocks.js:209
+msgid "Install"
+msgstr ""
+
+#: templates/suggestions_inline.php:13
+#: templates/suggestions_popup.php:13
+#: templates/suggestions_under.php:12
+msgid "plugin to enable features described above"
+msgstr ""
+
+#: templates/suggestions_popup.php:1
+msgid "Pop-up suggestions"
+msgstr ""
+
+#: templates/suggestions_popup.php:5
+msgid "Under this section, after upgrade to advanced version, you will be able to configure a suggestion block that will be shown in a popup box on the post pages of the selected post types. You will be able to configure the following options in addition to standard suggestion block settings"
+msgstr ""
+
+#: templates/suggestions_popup.php:10
+msgid "Define % of the page scroll when popup suggestions will be shown"
+msgstr ""
+
+#: templates/suggestions_under.php:1
+msgid "Under the post suggestions"
+msgstr ""
+
+#: templates/suggestions_under.php:5
+msgid "Under this section, after upgrade to advanced version, you will be able to configure a suggestion block that will be added after the posts of the selected types. You will be able to configure the following options in addition to standard suggestion block settings"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:35
+#: js/blocks.js:38
+msgid "Related posts"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:54
+msgid "Basic"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:62
+msgid "Keyword"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:65
+#: widgets/wp-related-posts-basic.php:131
+msgid "Ex: test"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:74
+#: js/blocks.js:262
+msgid "Layout & styles"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:82
+#: js/blocks.js:264
+msgid "Style"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:92
+#: js/blocks.js:272
+msgid "Order"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:102
+#: js/blocks.js:284
+msgid "Width"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:106
+#: widgets/wp-related-posts-basic.php:163
+msgid "Ex: 100%"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:113
+#: js/blocks.js:294
+msgid "Align"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:123
+#: js/blocks.js:301
+msgid "Show post date"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:125
+#: widgets/elementor-related-posts-basic.php:137
+msgid "Show"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:126
+#: widgets/elementor-related-posts-basic.php:138
+msgid "Hide"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:135
+#: js/blocks.js:313
+msgid "Show `more` button"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:151
+#: js/blocks.js:325
+msgid "Post types"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:174
+msgid "Number of posts"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:177
+msgid "Ex: 3"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:195
+msgid "Ad to display"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:215
+#: widgets/wp-related-posts-basic.php:207
+#: js/blocks.js:219
+msgid "plugin to enable extended post types including products"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:227
+#: js/blocks.js:328
+msgid "IDs include/exclude"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:235
+#: js/blocks.js:330
+msgid "Include post IDs"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:238
+#: widgets/elementor-related-posts-basic.php:248
+msgid "Ex: 1, 5, 12"
+msgstr ""
+
+#: widgets/elementor-related-posts-basic.php:245
+#: js/blocks.js:339
+msgid "Exclude post IDs"
+msgstr ""
+
+#: widgets/wp-related-posts-basic.php:127
+msgid "Ex: Related"
+msgstr ""
+
+#: widgets/wp-related-posts-basic.php:132
+msgid "plugin to enable suggestions by title and keywords of current post"
+msgstr ""
+
+#: widgets/wp-related-posts-basic.php:214
+#: widgets/wp-related-posts-basic.php:217
+msgid "Ex: 3, 12, 33"
+msgstr ""
+
+#: js/blocks.js:39
+msgid "Related postst generated via configured search engine on your WordPress installation"
+msgstr ""
+
+#: js/blocks.js:132
+msgid "Number of suggestions"
+msgstr ""
+
+#: js/blocks.js:244
+msgid "Suggestions block"
+msgstr ""
+
+#: js/blocks.js:251
+msgid "Basic settings"
+msgstr ""
+
+#: js/blocks.js:253
+msgid "Search keyword"
+msgstr ""
